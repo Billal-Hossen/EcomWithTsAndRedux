@@ -23,11 +23,6 @@
     "eject": "react-scripts eject",
     "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
-  },
   "browserslist": {
     "production": [
       ">0.2%",
